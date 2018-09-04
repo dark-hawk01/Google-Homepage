@@ -25,3 +25,11 @@
     top: -38.5px;   
 }
 
+.footer{
+    display: inline;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    
+}
+
